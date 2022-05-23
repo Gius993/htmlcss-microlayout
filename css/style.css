@@ -10,3 +10,10 @@
 	height: 500px;
 	background-color: brown;
 }
+.container-card{
+	padding: 1rem;
+	font-size: 1.4rem
+}
+.container-card ul{
+	list-style-type: none;
+}
